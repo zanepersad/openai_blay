@@ -1,10 +1,10 @@
-# ablay_ai
+# blay ai 
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I try to creating flutter ai chatbot using openai api, but i dont pay for the license so is not working  
 
 A few resources to get you started if this is your first Flutter project:
 
